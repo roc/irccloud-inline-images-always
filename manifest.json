@@ -1,0 +1,16 @@
+{
+
+  "name": "Inline images for irccloud",
+  "version": "0.1",
+  "description": "You want images inlined in irccloud, but you can't remember that you use cb().enableInlineImages(); to do that, so you install this extension.",
+  "content_scripts": [
+    {
+      "matches": ["https://irccloud.com/*"],
+      "js": ["inlineimages.js"]
+    }
+  ],
+  "permissions": [
+    "https://irccloud.com/*"
+  ],
+  "manifest_version": 2
+}

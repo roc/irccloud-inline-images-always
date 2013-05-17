@@ -1,12 +1,15 @@
-(function(){
+function inlineImages(){
     'use strict';
+    alert('hello!');
     if(typeof cb !== 'undefined' && cb){
         console.log('inline images should be enabled');
         cb().enableInlineImages();
     } else {
         console.log('could not call cb');
     }
-})();
+}
+
+inlineImages();
 
 // Copyright (c) 2011 The Chromium Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be

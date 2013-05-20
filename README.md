@@ -1,5 +1,5 @@
-irccloud-inline-images-always
-=============================
+Always Inline Images on IRC Cloud (AIIIRCC)
+===========================================
 
 Always display images inline in irccloud channels, because sometimes you want:
 

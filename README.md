@@ -3,11 +3,11 @@ Always Inline Images on IRC Cloud (AIIIRCC)
 
 Always display images inline in irccloud channels, because sometimes you want:
 
-![Burt Rambo online](http://i.imgur.com/XtB93CV.gif)
+![Brent Rambo online](http://i.imgur.com/XtB93CV.gif)
 
 right here:
 
-![Burt Rambo inline](img/inline-those-images.png)
+![Brent Rambo inline](img/inline-those-images.png)
 
 ### Installation:
 
